@@ -4,7 +4,7 @@
 
 ## **⚪Texto animado con Particulas entrelazadas⚪**
 
-![Gif del efecto](img/readmeGif.gif "Gif del efecto ;)")
+![Gif del efecto](TEXT-ANIMATION-STYLE-2/img/readmeGif.gif "Gif del efecto ;)")
 
 ## Tenemos los siguientes **campos** a destacar
 

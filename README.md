@@ -42,7 +42,6 @@ CTX.font = '22px Arial'; // Ajusta el tamaño de la fuente
 CTX.fillText('Pasame',HORIZONTAL,VERTICAL); // Ajusta el texto
 const coordenadasTexto = CTX.getImageData(0,0,100,100); // Obtiene las coordenadas del texto
 ```
-
 ### **Clase Particula**
 
 Creamos una clase Particula.
